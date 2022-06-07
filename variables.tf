@@ -2,7 +2,7 @@
 variable "vpc1_name" {
   description = "vpc name"
   type        = string
-  default     = "RP_vpc2"
+  default     = "RP_vpc3"
 }
 
 variable "vpc1_cidr" {
